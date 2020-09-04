@@ -47,3 +47,5 @@ public class Solution {
  * }
  */
 ```
+
+Running Time: O(n)
